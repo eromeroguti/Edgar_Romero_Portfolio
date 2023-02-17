@@ -19,7 +19,7 @@ nav {
 }
 
 img {
-    display: block;
+    display: flex;
     max-width:330px;
     max-height:150px;
     width: auto;
